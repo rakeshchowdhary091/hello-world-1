@@ -1,0 +1,30 @@
+2022-12-02 14:40:54,106 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-02 14:41:29,304 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ D:\raju\devops\hello-world\server\pom.xml.
+2022-12-02 14:41:29,304 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ D:\raju\devops\hello-world\server\pom.xml.
+2022-12-02 14:41:29,778 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:29,779 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\server\src\main\resources
+2022-12-02 14:41:29,783 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:29,783 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\server\src\test\resources
+2022-12-02 14:41:30,062 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:30,062 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\server\src\main\resources
+2022-12-02 14:41:30,065 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:30,065 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\server\src\test\resources
+2022-12-02 14:41:30,180 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:webapp:1.0-SNAPSHOT @ D:\raju\devops\hello-world\webapp\pom.xml.
+2022-12-02 14:41:30,208 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:30,208 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\webapp\src\main\resources
+2022-12-02 14:41:30,211 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:30,211 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\webapp\src\test\resources
+2022-12-02 14:41:30,977 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example.maven-project:server:1.0-SNAPSHOT @ D:\raju\devops\hello-world\server\pom.xml.
+2022-12-02 14:41:31,277 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:31,277 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\server\src\main\resources
+2022-12-02 14:41:31,280 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 14:41:31,280 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\server\src\test\resources
+2022-12-02 14:42:41,879 [Worker-16: Retrieving catalog resource] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->https://marketplace.eclipse.org:443
+2022-12-02 14:42:41,889 [Worker-10: Retrieving catalog resource] INFO  o.a.h.c.h.i.c.HttpRequestRetryExec - Recoverable I/O exception (org.apache.hc.core5.http.NoHttpResponseException) caught when processing request to {s}->https://marketplace.eclipse.org:443
+2022-12-02 14:44:12,640 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-12-02 15:05:16,587 [Worker-6: Launching server] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\raju\devops\hello-world\server
+2022-12-02 15:05:16,591 [Worker-6: Launching server] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dstyle.color=always 
+2022-12-02 15:06:57,061 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 15:06:57,061 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\webapp\src\main\resources
+2022-12-02 15:06:57,064 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-12-02 15:06:57,064 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\raju\devops\hello-world\webapp\src\test\resources
